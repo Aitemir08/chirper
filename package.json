@@ -1,0 +1,33 @@
+{
+  "name": "chirper",
+  "version": "1.0.0",
+  "description": "Chirper is a more intuitive version of Twitter",
+  "main": "chirper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aitemir08/chirper.git"
+  },
+  "keywords": [
+    "Chirper",
+    "Twitter",
+    "social",
+    "network",
+    "Express"
+  ],
+  "author": "Usenov Aitemir Kamchybekovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aitemir08/chirper/issues"
+  },
+  "homepage": "https://github.com/Aitemir08/chirper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
